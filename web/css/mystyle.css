@@ -1,0 +1,8 @@
+body {
+    background: url('image/orange_bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+
+}
+.primary-background {
+    background: #6A0DAD !important;
+}
